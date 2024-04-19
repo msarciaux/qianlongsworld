@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://ca2conbtesxlw"]
+
+[ext_resource type="PackedScene" uid="uid://ry1ax1kiixa0" path="res://Assignment 4.dae" id="1_dlrhw"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="Assignment 4" parent="." instance=ExtResource("1_dlrhw")]
+transform = Transform3D(0.5, 0, 0, 0, 0.5, 0, 0, 0, 0.5, 0.13863, 1.19209e-07, 1.38355)
